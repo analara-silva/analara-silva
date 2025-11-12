@@ -28,6 +28,10 @@
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" style="display:block;" />
 <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" style="display:block;" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" style="display:block;" />
+<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" style="display:block;" />
+<img src="https://img.shields.io/badge/godot_engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+<img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
+
 </p>
 
 ---
