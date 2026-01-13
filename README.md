@@ -7,7 +7,7 @@
     <b/>
   </samp>
 </div>
-<img align="center" width="100%" src="https://readme-typing-svg.demolab.com?font=Tiny5&size=22&duration=4000&pause=1000&color=C98686&center=true&vCenter=true&width=900&lines=System+development+;Fullstack+in+formation;Error+404%3A+Sleep+not+found;">
+<img align="center" width="100%" src="https://readme-typing-svg.demolab.com?font=Tiny5&size=25&duration=4000&pause=1000&color=C98686&center=true&vCenter=true&width=900&lines=System+development+;Fullstack+in+formation;Error+404%3A+Sleep+not+found;">
 
 
 
